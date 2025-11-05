@@ -1,4 +1,16 @@
-## About me 👋
+## About me 
+### Hi, I'm Sai Viswanath Vavilla 👋
+
+I’m passionate about exploring how **AI and geospatial data** can help us better understand and improve our world.  
+My interests span **GeoAI, machine learning, computer vision, satellite imagery analysis, climate change, and hazard data modeling**.
+
+I enjoy building data-driven solutions that connect **Earth observation and artificial intelligence** — uncovering patterns, detecting changes, and supporting decision-making in environmental and urban systems.  
+
+My current focus is on **GeoAI** — developing intelligent methods to extract meaningful insights from complex spatial data.  
+I’m always curious to learn new technologies, experiment with fresh ideas, and collaborate on projects that turn **geospatial intelligence into real-world impact**.
+
+🌍 Always learning. Always exploring.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v.s.v_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vavilla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsv2745@gmail.com) 
