@@ -4,9 +4,9 @@
 I’m passionate about exploring how **AI and geospatial data** can help us better understand and improve our world.  
 My interests span **GeoAI, machine learning, computer vision, satellite imagery analysis, climate change, and hazard data modeling**.
 
-I enjoy building data-driven solutions that connect **Earth observation and artificial intelligence** — uncovering patterns, detecting changes, and supporting decision-making in environmental and urban systems.  
+I enjoy building data-driven solutions that connect **Earth observation and artificial intelligence**  uncovering patterns, detecting changes, and supporting decision-making in environmental and urban systems.  
 
-My current focus is on **GeoAI** — developing intelligent methods to extract meaningful insights from complex spatial data.  
+My current focus is on **GeoAI**  developing intelligent methods to extract meaningful insights from complex spatial data.  
 I’m always curious to learn new technologies, experiment with fresh ideas, and collaborate on projects that turn **geospatial intelligence into real-world impact**.
 
 🌍 Always learning. Always exploring.
