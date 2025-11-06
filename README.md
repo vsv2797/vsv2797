@@ -1,4 +1,4 @@
-## About me 
+
 ### Hi, I'm Sai Viswanath Vavilla 👋
 
 I’m passionate about exploring how **AI and geospatial data** can help us better understand and improve our world.  
