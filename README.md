@@ -1,5 +1,5 @@
 
-### Hi, I'm Sai Viswanath Vavilla 👋
+## Hi, I'm Sai Viswanath Vavilla 👋
 
 I’m passionate about exploring how **AI and geospatial data** can help us better understand and improve our world.  
 My interests span **GeoAI, machine learning, computer vision, satellite imagery analysis, climate change, and hazard data modeling**.
